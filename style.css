@@ -85,3 +85,19 @@ form {
         color: blue;
     }
 }
+nav a {
+    transition:  color 0.5 ease;
+}
+nav a:hover {
+    color:lawngreen
+}
+button {
+     background-color:black;
+     color: white;
+    padding: 12px;
+   border-radius: 30px;
+  transition:  background-color 0.1s ease;
+}
+button:hover {
+     background-color:red;
+}          
