@@ -35,7 +35,9 @@ main section {
     border: 2px solid black;
     padding: 20px
 }
-
+section[id = "project"]{
+    background-color:  aqua
+}
 form {
     display: flex;
     flex-direction: column;
